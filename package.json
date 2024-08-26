@@ -9,6 +9,7 @@
   "author": "Jaden",
   "license": "MIT",
   "dependencies": {
+    "@tensorflow/tfjs": "^4.20.0",
     "axios": "^1.7.5",
     "dotenv": "^16.4.5",
     "node-schedule": "^2.1.1",
