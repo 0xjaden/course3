@@ -42,6 +42,6 @@ This layered design ensures the security of course content and effective managem
 
 # Links
 
-- Website: [https://www.web3edu.fun/](https://www.course3.fun/)
+- Website: [https://www.course3.fun/](https://www.course3.fun/)
 - Twitter(X): [https://x.com/0xcourse3](https://x.com/0xcourse3)
 - Telegram: https://t.me/eduweb3_bot
